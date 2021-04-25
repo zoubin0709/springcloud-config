@@ -13,3 +13,4 @@ spring:
    profiles: test       #开发环境
    application:
       name: springcloud-config-zoubin-test
+   #更新的数据   
